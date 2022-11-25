@@ -1,2 +1,5 @@
 # A-Dice-Game
-Project from a Udemy course
+
+Rendition of a dice game
+
+
